@@ -6,6 +6,10 @@ h1{
     background-color: blue;
     font-size: 30px;
 }
+q{
+    font-size: 30px;
+    color: darkorange;
+}
 
 #sabedoria{
     width: 100px;
