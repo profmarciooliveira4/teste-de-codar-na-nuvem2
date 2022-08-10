@@ -5,7 +5,9 @@ body{
 h1{
     background-color: #d6e2f134;
     font-size: 30px;
-}
+    text-align: center;
+    color: yellow;
+    border: 8px dotted yellow;
 q{
     font-size: 30px;
     color: rgba(255, 140, 0, 0.86);
