@@ -2,11 +2,15 @@ body{
     background-color:rgb(0, 92, 128);
 }
 
+.formador {
+    border:solid 5px  gray;
+}
+
 h1{
     background-color: #d6e2f134;
     font-size: 30px;
     text-align: center;
-    color: yellow;
+    color: red;
     border: 8px dotted yellow;
 q{
     font-size: 30px;
