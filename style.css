@@ -12,10 +12,11 @@ h1{
     text-align: center;
     color: red;
     border: 8px dotted yellow;
+}
 
-    p {
-        color: red;
-    }
+p{
+    text-align: center;
+}
 
 q{
     font-size: 30px;
